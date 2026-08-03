@@ -16,7 +16,7 @@ demo = "https://s.aeoly.us/"
 code = "https://github.com/aeolyus/gull"
 
 [integration]
-yunohost = ">= 12.1.38"
+yunohost = ">= 12.1.40"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = false
